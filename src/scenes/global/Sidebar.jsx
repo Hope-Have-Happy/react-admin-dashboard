@@ -107,10 +107,10 @@ const Sidebar = () => {
                   fontWeight="bold"
                   sx={{ m: '10px 0 0 0' }}
                 >
-                  Irfan Dayan
+                  John
                 </Typography>
                 <Typography variant="h5" color={colors.greenAccent[500]}>
-                  Full Stack Engineer
+                  Manager
                 </Typography>
               </Box>
             </Box>
